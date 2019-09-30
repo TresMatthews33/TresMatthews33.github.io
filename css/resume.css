@@ -177,7 +177,8 @@ a:hover, a:focus, a:active {
   color: #D3B441;
 }
 
-#sites {
-  length: 100px;
-  width: 50px;
+.sites {
+  length: 750px;
+  width: 550px;
+  border-radius: 15px;
 }
